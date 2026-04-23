@@ -60,12 +60,30 @@ Bobiao Guo,**Ping Ping***,et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/TDSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/TSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AISM: An Adaptable Image Steganography Model with User Customization](https://ieeexplore.ieee.org/document/10517434)
 
-Bobiao Guo,**Ping Ping***,et al.
+Bobiao Guo,**Ping Ping***, Siqi Zhou, et al.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TDSC 2024</div><img src='images/TDSC2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IMIH: Imperceptible Medical Image Hiding for Secure Healthcare](https://ieeexplore.ieee.org/document/10402078)
+
+**Ping Ping**, Pan Wei, Deyin Fu, et al.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2024</div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hiding Multiple Images into a Single Image Using Up-Sampling](https://ieeexplore.ieee.org/document/10272621)
+
+**Ping Ping**, Bobiao Guo, O. T. Bloh, et al.
 </div>
 </div>
 
