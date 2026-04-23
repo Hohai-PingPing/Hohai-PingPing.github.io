@@ -36,14 +36,38 @@ My research interests include **_Artificial Intelligence Security_**, **_Stegano
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2026</div><img src='images/HFRW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HFRW: High Fidelity and Robust Watermarking using Deep Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HFRW: High Fidelity and Robust Watermarking using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11408265)
 
 **Ping Ping**, Ruixuan Jiang, et al.
-
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2025</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Reversible Watermarking with Invisible Distortion Against VAE Watermark Removal](https://ieeexplore.ieee.org/document/11185321)
+
+Bobiao Guo,**Ping Ping***,et al.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TDSC 2025</div><img src='images/TDSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Highly Robust and Diverse Coverless Image Steganography Against Passive and Active Steganalysis](https://ieeexplore.ieee.org/abstract/document/10812863)
+
+Bobiao Guo,**Ping Ping***,et al.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/TDSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AISM: An Adaptable Image Steganography Model with User Customization](https://ieeexplore.ieee.org/document/10517434)
+
+Bobiao Guo,**Ping Ping***,et al.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
