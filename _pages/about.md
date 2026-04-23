@@ -87,10 +87,15 @@ Bobiao Guo,**Ping Ping***, Siqi Zhou, et al.
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🚀 Projects
+- National Natural Science Foundation of China (Young Scientists Fund)
+- Jiangsu Natural Science Foundation (Young Scientists Fund)
+- Fundamental Research Funds for the Central Universities
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- The First Prize of the Dayu Water Conservancy Science and Technology Award
+- The Second Prize of the Teaching Achievement Award of Hohai University
+- The Second Prize in the Young Faculty Teaching Competition of Hohai University
+- Member of the China Computer Federation (CCF)
+- Member of the China Society of Image and Graphics (CSIG)
+- Committee member of the Digital Media Forensics and Security Technical Committee of CSIG
